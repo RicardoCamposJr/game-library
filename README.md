@@ -8,6 +8,9 @@
  The project of a game library made in React, Vite and Sass.
  In this application you can register the games that have passed through your life as a way of remembering and listing your experiences with them.
 
+### Link to test:
+https://ricardocamposjr.github.io/game-library/
+
 ## Layout:
 
 ### Web
