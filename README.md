@@ -1,6 +1,3 @@
-# game-library
- The project of a game library made in React, Vite and Sass.
-
 <div align= "center" >
 
 # Game Library
@@ -14,12 +11,16 @@
 ## Layout:
 
 ### Web
-![Web](https://github.com/RicardoCamposJr/login-screen/blob/main/assets/layout-web.PNG)
+![Web](https://github.com/RicardoCamposJr/game-library/blob/main/public/image.png?raw=true)
 
 ## Technologies used:
 ### Front-End
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 
 ## Autor:
 Ricardo Campos de Oliveira Júnior
